@@ -12,15 +12,15 @@
 - 🎬 [**Dance Focus**](https://github.com/cowcool-niushuai/dance-focus) — 基于 SAM 2 的舞蹈视频自动跟拍与重构（Linux / GPU）
 - 🌱 关注多智能体并行、本地 RAG 与评测协议设计
 
-📫 whitejettglenndesmond610@gmail.com · 🌐 [作品集](https://nn-iota-ashy.vercel.app)
+📫 whitejettglenndesmond610@gmail.com · 🌐 [作品集](https://cowcool.reallier.com)
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cowcool-niushuai&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true">
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=cowcool-niushuai&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowcool-niushuai&layout=compact&theme=transparent&hide_border=true&langs_count=6">
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cowcool-niushuai&layout=compact&theme=transparent&hide_border=true&langs_count=6">
 </a>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cowcool-niushuai&theme=github-compact&hide_border=true&area=true&height=260)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=cowcool-niushuai&theme=github-compact&hide_border=true&area=true&height=260)](https://github.com/Ashutosh00710/github-readme-activity-graph)
